@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551173808 source:c:\users\teilnehmer.pc29\desktop\portablegit\backup contagdesjahres\timelib\timelib.c
+	<stdio.h>
+	<stdlib.h>
+
+1551174194 source:c:\users\teilnehmer.pc29\desktop\portablegit\backup contagdesjahres\timelib\main.c
+	<stdio.h>
+	<stdlib.h>
+
